@@ -4,3 +4,7 @@ node_modules
 typings
 coverage
 dist
+/.svn
+/demo-dist
+/dist
+/node_modules
